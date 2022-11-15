@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Ranged766
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Ranged766
+### Who am I?
+|||
+|-|-|
+|Discord|`'Ranged🍉#3012'`
+|Guilded|https://www.guilded.gg/u/Ranged766
+|Mail|`Ranged766@protonmail.com`
 
-<!---
-Ranged766/Ranged766 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
