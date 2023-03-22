@@ -20,7 +20,7 @@
 <br><br>
 
 - I'm a lazy guy who just want to chill and live a quiet life.
-- If my codes have errors just leave them be, they can fell how they want.
+- If my codes have errors just leave them be, they can feel how they want.
 - On Discord `Ranged🍉#3012` also on guilded `Ranged766`
 - Write me @ ``Ranged766@protonmail.com``
 <br>
