@@ -11,7 +11,7 @@
 
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Ranged766&show_icons=true&count_private=true&theme=radical" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranged766&langs_count=8&layout=compact&theme=radical" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranged766&langs_count=8&layout=compact&theme=radical"/>
 <img height="150" />
 <br><br>
 
