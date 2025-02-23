@@ -1,6 +1,6 @@
 Yeah I left this service in 2022, I'm now using a self-hosted service
-https://about.gitea.com/
-Protect your self by protecting your privacy!
+<br>https://about.gitea.com/
+<br>Protect yourself by protecting your privacy!
 
 <h1 align="center"> 🍉 Hi! Hola! Ciao! привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
