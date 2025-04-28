@@ -1,4 +1,4 @@
-Yeah I left this Website in 2022, I'm now using a self-hosted service
+Yeah I left this website in 2022, I'm now using a self-hosted service
 <br>https://about.gitea.com/
 <br>Protect yourself by protecting your privacy!
 
